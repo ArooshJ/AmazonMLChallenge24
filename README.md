@@ -48,9 +48,3 @@ Upon successful training, the final models are used to generate predictions on t
   * `FullDataTrainingFinal.ipynb`: Implements the deep learning model architecture (ViT + CNNs), training loop, and evaluation metrics.
   * `FinalTest.ipynb`: Handles model loading, inference on the test set, and generation of the final submission file.
 
-## Future Enhancements
-
-  * Exploring more advanced regularization techniques to prevent overfitting.
-  * Implementing alternative unit conversion strategies to improve robustness for edge cases.
-  * Investigating different backbone architectures for image feature extraction beyond ViT.
-  * Detailed hyperparameter tuning using automated tools for optimal model performance.
