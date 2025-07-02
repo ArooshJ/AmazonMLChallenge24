@@ -42,7 +42,7 @@ Upon successful training, the final models are used to generate predictions on t
   * **Inverse Transformation:** Predicted numerical values are inverse-transformed from their scaled representation to their original scale, and predicted unit indices are converted back to human-readable unit labels.
   * **Submission File Generation:** The final predicted numerical values and their corresponding units are compiled and saved into `predicted_values_final.csv`, formatted as required for the challenge submission. A utility `predict_single_image` function is also included to demonstrate real-time inference for individual product images.
 
-## Repository Structure (Brief)
+## Repository Structure
 
   * `Amazon.ipynb`: Contains code for data loading, preprocessing, `entity_value` parsing, and unit conversions.
   * `FullDataTrainingFinal.ipynb`: Implements the deep learning model architecture (ViT + CNNs), training loop, and evaluation metrics.
