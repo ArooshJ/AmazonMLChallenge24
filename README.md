@@ -1,4 +1,4 @@
-# Product Attribute detection based on Images - Amazon ML Challenge Solution
+# Product Attribute detection based on Images - Amazon ML Challenge 2024 Solution
 
 This repository presents a comprehensive solution for the Amazon Machine Learning Challenge, focusing on accurately extracting numerical values and their corresponding units for various product attributes (such as item weight, volume, voltage, etc.) from product listings, leveraging both image and textual data. The project employs a robust pipeline encompassing sophisticated data preprocessing, a multi-modal deep learning architecture, and a streamlined prediction workflow.
 
